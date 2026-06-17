@@ -29,7 +29,7 @@ SecurityLogAnalyzer/
 │   └── security_report.csv
 How to Run
 1. Clone the repository
-git clone https://github.com/your-username/SecurityLogAnalyzer.git
+git clone https://github.com/aniqa789/SecurityLogAnalyzer.git
 cd SecurityLogAnalyzer
 2. Run the project
 python app.py
